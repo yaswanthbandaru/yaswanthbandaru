@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![yashwanth](https://github.com/yaswanthbandaru/yaswanthbandaru.github.io/blob/master/assets/img/me.JPG?raw=true
+![yashwanth](https://github.com/yaswanthbandaru/yaswanthbandaru.github.io/blob/master/assets/img/me.JPG?raw=true)
 <!--
 **yaswanthbandaru/yaswanthbandaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
