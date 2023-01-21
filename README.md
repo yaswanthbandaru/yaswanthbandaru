@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ## This is Yaswanth
-![yashwanth](https://github.com/yaswanthbandaru/yaswanthbandaru.github.io/blob/master/assets/img/me.JPG?raw=true)
+<!-- ![yashwanth](https://github.com/yaswanthbandaru/yaswanthbandaru.github.io/blob/master/assets/img/me.JPG?raw=true) -->
+![yaswanth](https://avatars.githubusercontent.com/u/50611123?v=4)
 
 <!--
 **yaswanthbandaru/yaswanthbandaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
