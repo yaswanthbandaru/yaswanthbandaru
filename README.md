@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 -->
 ![Chan27-2's github stats](https://github-readme-stats.vercel.app/api?username=yaswanthbandaru&show_icons=true&count_private=true&show_icons=true&theme=tokyonight)
 
+<!--
 ![Chan27-2's top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanthbandaru&layout=compact&theme=tokyonight)
+-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=yaswanthbandaru&theme=tokyonight)](https://git.io/streak-stats)
 
