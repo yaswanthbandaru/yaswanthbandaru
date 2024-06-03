@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- github linke for skills => https://github.com/tandpfun/skill-icons -->
+<h3 align="center">Programming Languages</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,python,git,docker,cpp,vim" />
