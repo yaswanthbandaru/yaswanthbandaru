@@ -1,56 +1,60 @@
-### Hi there 👋
 
-## This is Yaswanth
+<h2 algin="center">
+  <!-- https://git.io/typing-svg -->
+  <a href="https://github.com/yaswanthbandaru">
+    <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+This+is+Yaswanth+Bandaru" alt="Typing SVG" />
+  </a>
+</h2>
 
-<!--
-**yaswanthbandaru/yaswanthbandaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- ![yaswanthbandaru github stats](https://github-readme-stats.vercel.app/api?username=yaswanthbandaru&show_icons=true&count_private=true&show_icons=true&theme=tokyonight) -->
 
-- 📚 I'm currently a 5th year Dual Degree Student.
-- 🌱 I’m currently learning Web Development.
-- 👯 I’m looking to collaborate on Backend developement and Blockchain Development.
-- 🤔 I’m looking for help with back end development.
-- 💬 Ask me about Deep Learning
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Chan27-2's github stats](https://github-readme-stats.vercel.app/api?username=yaswanthbandaru&show_icons=true&count_private=true&show_icons=true&theme=tokyonight)
 
-<!--
-![Chan27-2's top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanthbandaru&layout=compact&theme=tokyonight)
--->
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yaswanthbandaru" alt="GitHub Streak" /></a>
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yaswanthbandaru&theme=tokyonight)](https://git.io/streak-stats)
 
-## Badge
-
-![https://github-profile-trophy.vercel.app/?username=yaswanthbandaru](https://github-profile-trophy.vercel.app/?username=yaswanthbandaru&theme=tokyonight)
-
+<h2 align="left">Profiles</h2>
+<p align="left">
+	<a href="https://www.linkedin.com/in/yaswanthbandaru/" target="blank"
+		><img
+			align="center"
+			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+			alt=""
+			height="30"
+			width="40"
+	/></a>
+	<a href="https://codeforces.com/profile/codeisop" target="blank"
+		><img
+			align="center"
+			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
+			alt="codeisop"
+			height="30"
+			width="40"
+	/></a>
+	<a href="https://leetcode.com/u/yaswanthbandaru424/" target="blank"
+		><img
+			align="center"
+			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+			alt="yaswanthbandar424"
+			height="30"
+			width="40"
+	/></a>
+</p>
 
 ## Skills
-<!--
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Node Js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
--->
 
 <!-- github linke for skills => https://github.com/tandpfun/skill-icons -->
 <h3 align="center">Programming Languages</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,python,git,docker,cpp,vim" />
+    <img src="https://skillicons.dev/icons?i=javascript,cpp,python,typescript,r" />
+  </a>
+</p>
+<h3 align="center">Frameworks & Libraries </h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,django,express,tensorflow,spring" />
   </a>
 </p>
