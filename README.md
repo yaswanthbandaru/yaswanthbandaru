@@ -16,45 +16,52 @@
 
 
 <h2 align="left">Profiles</h2>
-<p align="left">
+<br/>
+<p align="center">
 	<a href="https://www.linkedin.com/in/yaswanthbandaru/" target="blank"
 		><img
 			align="center"
 			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
 			alt=""
-			height="30"
-			width="40"
+			height="45"
+			width="60"
 	/></a>
 	<a href="https://codeforces.com/profile/codeisop" target="blank"
 		><img
 			align="center"
 			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
 			alt="codeisop"
-			height="30"
-			width="40"
+			height="45"
+			width="60"
 	/></a>
 	<a href="https://leetcode.com/u/yaswanthbandaru424/" target="blank"
 		><img
 			align="center"
 			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
 			alt="yaswanthbandar424"
-			height="30"
-			width="40"
+			height="45"
+			width="60"
 	/></a>
 </p>
 
 ## Skills
 
 <!-- github linke for skills => https://github.com/tandpfun/skill-icons -->
-<h3 align="center">Programming Languages</h3>
+<h3 align="center">Programming Languages & Databases </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,cpp,python,typescript,r" />
+    <img src="https://skillicons.dev/icons?i=js,cpp,python,typescript,r,bash,mysql,mongodb" />
   </a>
 </p>
 <h3 align="center">Frameworks & Libraries </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,django,express,tensorflow,spring" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,django,express,tensorflow,spring,css,express,sklearn,tailwind,materialui,solidity" />
+  </a>
+</p>
+<h3 align="center">Miscellaneous</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ubuntu,neovim,aws,docker,git,postman,matlab,linux,latex,octave,npm,vim" />
   </a>
 </p>
