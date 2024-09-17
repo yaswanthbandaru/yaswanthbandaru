@@ -50,13 +50,13 @@
 <h3 align="center">Programming Languages & Databases </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,cpp,python,typescript,r,bash,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=js,cpp,python,typescript,postgres,r,bash,mysql,mongodb" />
   </a>
 </p>
 <h3 align="center">Frameworks & Libraries </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,django,express,tensorflow,spring,css,express,sklearn,tailwind,materialui,solidity" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,django,express,graphql,tensorflow,spring,css,express,sklearn,tailwind,materialui,solidity" />
   </a>
 </p>
 <h3 align="center">Miscellaneous</h3>
