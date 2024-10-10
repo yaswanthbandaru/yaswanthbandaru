@@ -15,11 +15,14 @@
 <p align="center">
 	<a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanthbandaru" alt="GitHub Streak" /></a>
 </p>
--->
-
 
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yaswanthbandaru" alt="GitHub Streak" /></a>
+</p>
+-->
+
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yaswanthbandaru&theme=github" alt="GitHub Streak" /></a>
 </p>
 
 
