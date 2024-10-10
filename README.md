@@ -9,6 +9,14 @@
 
 <!-- ![yaswanthbandaru github stats](https://github-readme-stats.vercel.app/api?username=yaswanthbandaru&show_icons=true&count_private=true&show_icons=true&theme=tokyonight) -->
 
+<!-- ![Chan27-2's top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanthbandaru&layout=compact&theme=tokyonight) -->
+
+<!-- 
+<p align="center">
+	<a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanthbandaru" alt="GitHub Streak" /></a>
+</p>
+-->
+
 
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yaswanthbandaru" alt="GitHub Streak" /></a>
